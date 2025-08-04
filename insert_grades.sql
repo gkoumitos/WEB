@@ -1,0 +1,9 @@
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (2, 11, 9, 8, 8, 8.33, '2025-08-04T12:39:56.032743');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (2, 15, 9, 10, 10, 9.67, '2025-08-04T12:39:56.032791');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (2, 14, 9, 8, 8, 8.33, '2025-08-04T12:39:56.032829');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (5, 12, 10, 7, 7, 8.0, '2025-08-04T12:39:56.033219');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (5, 13, 7, 8, 8, 7.67, '2025-08-04T12:39:56.033259');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (5, 14, 10, 7, 10, 9.0, '2025-08-04T12:39:56.033295');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (6, 15, 10, 10, 9, 9.67, '2025-08-04T12:39:56.033671');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (6, 13, 7, 7, 9, 7.67, '2025-08-04T12:39:56.033713');
+INSERT INTO grades (thesis_id, grader_id, criterion_1, criterion_2, criterion_3, overall, submitted_at) VALUES (6, 14, 9, 7, 9, 8.33, '2025-08-04T12:39:56.033748');
