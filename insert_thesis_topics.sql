@@ -1,8 +1,10 @@
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 1', 'Ας όχι πετάνε αποφάσισε προσπαθήσεις λες.', 'description_1.pdf', 11, '2025-08-04T12:08:01.204994', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 2', 'Τις βουτήξουν λίγο διακοπή. Διάσημα εκτός στο μεταγλωτιστής.', 'description_2.pdf', 11, '2025-08-04T12:08:01.205018', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 3', 'Εξακολουθεί του μερικούς τύπους στη.', 'description_3.pdf', 11, '2025-08-04T12:08:01.205036', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 4', 'Όχι αποθηκευτικού γιαυτό μέσης. Ένα μας διορθώσει απλό συνεντεύξεις τοπικές.', 'description_4.pdf', 12, '2025-08-04T12:08:01.205063', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 5', 'Χρησιμοποιούνταν συνηθίζουν ίδιο πρώτης.', 'description_5.pdf', 12, '2025-08-04T12:08:01.205077', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 6', 'Κανείς αναφέρονται απαρατήρητο κοιτάζοντας ανώδυνη.', 'description_6.pdf', 15, '2025-08-04T12:08:01.205091', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 7', 'Λιγότερο βαθμό σαν κόψεις άπειρα μπορούσες. Αποστηθίσει και πετάνε από.', 'description_7.pdf', 15, '2025-08-04T12:08:01.205108', 1);
-INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('Διπλωματική 8', 'Θέματα εγώ δε ατόμου.', 'description_8.pdf', 11, '2025-08-04T12:08:01.205125', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 1', 'temp description for 1', NULL, 11, '2025-07-08T10:26:17.380975', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 2', 'temp description for 2', NULL, 11, '2025-08-05T10:26:17.381042', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 3', 'temp description for 3', NULL, 12, '2025-07-08T10:26:17.381086', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 4', 'temp description for 4', NULL, 12, '2025-07-18T10:26:17.381127', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 5', 'temp description for 5', NULL, 13, '2025-08-04T10:26:17.381168', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 6', 'temp description for 6', NULL, 13, '2025-07-22T10:26:17.381201', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 7', 'temp description for 7', NULL, 14, '2025-07-01T10:26:17.381239', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 8', 'temp description for 8', NULL, 14, '2025-07-07T10:26:17.381283', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 9', 'temp description for 9', NULL, 15, '2025-08-10T10:26:17.381316', 1);
+INSERT INTO thesis_topics (title, summary, description_file, created_by, created_at, is_active) VALUES ('title 10', 'temp description for 10', NULL, 15, '2025-08-09T10:26:17.381350', 1);
