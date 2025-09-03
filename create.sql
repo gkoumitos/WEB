@@ -1,5 +1,5 @@
 CREATE DATABASE web_database CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE thesis_system;
+USE web_database;
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     role ENUM('student', 'faculty', 'secretariat') NOT NULL,
